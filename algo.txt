@@ -1,0 +1,7 @@
+1. Decide which pizza place to order from.
+2. Decide what type of pizza to order.
+3. Call or drive to the pizza place of your choice
+4. Order pizza.
+5. Pay for pizza.
+6. Wait for them to make your pizza.
+7. Eat your pizza.
